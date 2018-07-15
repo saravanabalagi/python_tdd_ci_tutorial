@@ -6,7 +6,7 @@ def is_prime(x):
         return False
 
     for i in range(2, round(sqrt(x))):
-        if x % i != 0:
+        if x % i == 0:
             return False
 
     return True
