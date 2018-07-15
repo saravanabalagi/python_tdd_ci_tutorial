@@ -78,7 +78,6 @@ def test_is_prime():
     assert is_prime(96) is False
     assert is_prime(98) is False
     assert is_prime(99) is False
-    assert is_prime(100) is False
 
     assert is_prime(2) is True
     assert is_prime(3) is True
