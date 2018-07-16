@@ -43,6 +43,12 @@ With CI, we can be sure if this piece of software will work just the way we woul
   - Python 3.6
   - Python 3.7-dev
   
+You would want to use CI unless you are happy if it runs only on your machine (which has it's own environment variables and specific versions of dev-software installed) or have plenty of time to test your app on all different versions manually and you won't get bored at all ;)
+
+That's an example of something as simple as `is_prime()` breaking for a few versions of python. Yes, expect for things to break when it leaves your computer. It happens so often and it's common :D
+
+![Travis](travis-screenshot.png)
+  
 ## How do I start?
 
 Check the commit history of this repo and that should help you get started.
