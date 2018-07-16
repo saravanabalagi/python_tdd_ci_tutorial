@@ -12,7 +12,9 @@ Bare minimum things we need to start is
 - some hardcoded output*
 - test cases we want the software (which you will write) to handle
 
-It is okay to begin with a hardcoded value or random variable being outputted. And now when we run the tests, some will pass and some will fail. This should give an estimate of how much we have progressed. We then write code to make every test pass. Some test cases can be added along the way as well just like we did in this repo, , if you do not know all the test cases before building the software.
+*that looks like output. i.e., same data structure, same data-type, etc., 
+
+It is okay to begin with a hardcoded value or random variable being outputted. And now when we run the tests, some will pass and some will fail. This should give an estimate of how much we have progressed. We then write code to make every test pass. Some test cases can be added along the way as well just like we did in this repo, if you do not know all the test cases before building the software.
 
 ## Am I wasting time writing the tests?
 
