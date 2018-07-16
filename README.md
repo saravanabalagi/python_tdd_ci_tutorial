@@ -24,7 +24,7 @@ Maybe. Maybe not. Depends on
 - development iterations
 - number of developers involved
 
-If it's a single developer and a one iteration build (which even small projects usually won't be) that can be easily tested manually and if it would take ages to write them as code, yes you may not want to do this. You can write the software, see if it works, hand it over and done, right?
+If it's a single developer and a one iteration build (which even small projects usually won't be) that can be easily tested manually and if it would take ages to write them as code, yes you may not want to do this. You can write the software once and for all, see if it works at the end, make quick changes or add dirty hacks just to get it working, hand it over and done, right?
 
 But unfortunately, even a very simple task like `is_prime(number)` would require multiple iterations. For every single time you make changes, you can check if the change you made has broken your app or not. 
 
