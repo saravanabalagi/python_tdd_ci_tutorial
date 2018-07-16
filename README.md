@@ -26,7 +26,7 @@ Maybe. Maybe not. Depends on
 
 If it's a single developer and a one iteration build (which even small projects usually won't be) that can be easily tested manually and if it would take ages to write them as code, yes you may not want to do this. You can write the software once and for all, see if it works at the end, make quick changes or add dirty hacks just to get it working, hand it over and done, right?
 
-But unfortunately, even a very simple task like `is_prime(number)` would require multiple iterations. For every single time you make changes, you can check if the change you made has broken your app or not. 
+But unfortunately, even a very simple task like `is_prime(number)` would require multiple iterations. Every single time you make changes, you can check if the change you made has broken your app or not. 
 
 It would become so messy when more than one developer is involved. How do I know if I broke the code, or my colleague broke it? Run the tests before and after your colleague's commit, and voila! You know who the criminal is ;)  
 
