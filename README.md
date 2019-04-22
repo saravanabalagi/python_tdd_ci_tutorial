@@ -2,7 +2,7 @@
 
 A nano tutorial on Test Driven Development (TDD) and Continuous Integration (CI). Let's check if a number is prime or not.
 
-[![Build Status](https://travis-ci.org/zekedran/python_tdd_ci_tutorial.svg?branch=master)](https://travis-ci.org/zekedran/python_tdd_ci_tutorial)
+[![Build Status](https://travis-ci.org/saravanabalagi/python_tdd_ci_tutorial.svg?branch=master)](https://travis-ci.org/zekedran/python_tdd_ci_tutorial)
 
 ## Why Test Driven Development?
 
